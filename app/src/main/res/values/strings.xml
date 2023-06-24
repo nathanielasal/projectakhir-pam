@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">project akhir</string>
+    <string name="comment">Write a review about this product...</string>
+    <string name="daftar"><b>Daftar Barang</b></string>
+    <string name="barang"><b>Barang</b></string>
+    <string name="pesanan"><b>Pesanan</b></string>
+    <string name="pembayaran"><b>Pembayaran</b></string>
+    <string name="review"><b>Review dan Rating</b></string>
+    <string name="tepung"><b>Tepung Terigu</b></string>
+    <string name="harga"><b>Rp100.000</b></string>
+    <string name="total"><b>Total</b></string>
+    <string name="hargatot"><b>Rp592.000</b></string>
+    <string name="tambah"><b>Tambah Barang</b></string>
+    <string name="edit"><b>Edit Barang</b></string>
+    <string name="loremipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean turpis felis, pellentesque nec consequat quis, sodales varius elit. Aliquam a ultricies arcu. Duis volutpat est condimentum, vehicula elit elementum, dictum lorem. Phasellus a egestas lorem. Sed non pretium nibh. Aliquam a sapien odio. Duis at diam blandit, eleifend risus consectetur, laoreet eros. Quisque lacus odio, ornare non felis et, dictum vestibulum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

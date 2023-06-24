@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "418384537372",
+    "firebase_url": "https://pam-final-e0c62-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_id": "pam-final-e0c62",
+    "storage_bucket": "pam-final-e0c62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418384537372:android:11bd0dd1f8d75650547cd9",
+        "android_client_info": {
+          "package_name": "sns.example.projectakhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418384537372-6hp9nqgqbkvebgo2js30oqhaphojj7ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASQ0TJdCRSyhux46lS5FJEekVS8x84tl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418384537372-6hp9nqgqbkvebgo2js30oqhaphojj7ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
